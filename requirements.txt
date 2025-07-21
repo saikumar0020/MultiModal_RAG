@@ -1,0 +1,22 @@
+unstructured[all-docs] 
+pillow 
+pydantic 
+lxml 
+matplotlib
+poppler-utils
+tesseract-ocr
+libtesseract-dev
+unstructured-pytesseract
+langchain-google-genai
+langchain-groq
+pillow
+matplotlib
+langchain
+langchain-community
+chromadb
+langchain-chroma
+fastapi
+unicorn
+streamlit
+
+-e .
